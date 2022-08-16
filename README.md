@@ -20,6 +20,6 @@
 - Styled Components
 - GitHub (flow)
 
-### If Anyone wishes to contact me here is my [LinkedIn!](https://www.linkedin.com/in/martiniojedafullstack/)
+### If Anyone wishes to contact me here is my [LinkedIn!](https://www.linkedin.com/in/martinojedafullstack/)
 
 ### ***Coming Soon:***    Currently creating a Portfolio to display all of my proyects! 
