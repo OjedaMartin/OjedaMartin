@@ -1,25 +1,32 @@
-# *Welcome To My GitHub Profile!*
+# 🐱‍👤 Martin Ojeda
 
-## My name is ***Martin Ojeda***, and i`m currently looking for oportunities to become a better web developer!
+**`Web developer`**
 
-### Full-Stack developer graduated from Henry. i've learned many tecnologies that serve different purposes inside of web development, among them I particularly liked React, Javascript, express and sequelize.
 
-### I'm open to work, I strongly belive that by doing so I would gain the oportunity to keep learning from others about this wonderful tools
+<p align="left">
+  <a href="https://www.linkedin.com/in/martinojedafullstack/">
+         <img alt="Linkedin" title="Linkedin" src="https://custom-icon-badges.demolab.com/badge/%F0%9F%8C%A0-Linkedin-blue" /></a>
+ </p>
 
-### Here's a List of all I've learned so far. (I look forward to keep adding things here!)
+---
 
-- Javascript
-- CSS
-- HTML
-- React
-- Redux
-- Node.js
-- Express
-- Sequelize
-- PostgreSQL
-- Styled Components
-- GitHub (flow)
 
-### If Anyone wishes to contact me here is my [LinkedIn!](https://www.linkedin.com/in/martinojedafullstack/)
 
-### ***Coming Soon:***    Currently creating a Portfolio to display all of my proyects! 
+### 🔧 Languages and Tools 
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
+
+<br/>
+
